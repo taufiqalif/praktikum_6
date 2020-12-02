@@ -7,7 +7,7 @@ Soal latihan 1
 
 ![latihan_1.png](/gambar/latihan_1.png)
 
-* Source Code 
+Source Code 
 
 	print("________________________________________")
 	# mengubah function menggunakan lambda
@@ -59,18 +59,19 @@ Soal latihan 1
 	print("4. Mengubah function menggunakan Lambda \n   def d(s): \n \t   return "".join(set(s))")
 	print("   Hasil : lambda s: "".join(set(s)))")
 
-* Output dari source code di atas
+
+Output dari source code di atas
 
 ![01.png](/gambar/01.png)
 
 
 ## Praktikum 6
 
-* Soal Praktikum 6 
+Soal Praktikum 6 
 
 ![praktikum.png](/gambar/praktikum.png)
 
-* Source Code 
+Source Code 
 
 	# Taufiq Alif R
 	# Bahasa Pemrograman
@@ -174,22 +175,22 @@ Soal latihan 1
         	print("¦    PROGRAM ERROR    ¦")
         	print("+---------------------+")
 
-* Menambah data mahasiswa
+Menambah data mahasiswa
 
 ![02.png](/gambar/02.png)
 
-* Mengubah data
+Mengubah data
 
 ![03.png](/gambar/03.png)
 
-* Menghapus data
+Menghapus data
 
 ![04.png](/gambar/04.png)
 
 
 ## FLOWCHART
 
-* Hasil dari FLOWCHART
+Hasil dari FLOWCHART
 
 ![flowchart.png](/gambar/flowchart.png)
 
