@@ -3,12 +3,18 @@
 
 ## Latihan 1
 
+Soal latihan 1
+
+![latihan_1.png](/gambar/latihan_1.png)
+
+Source Code 
+
 	print("________________________________________")
 	# mengubah function menggunakan lambda
 
 
 	def a(x):
-    	    return x ** 2
+    	   return x ** 2
 
 
 	lambda x: x ** 2
@@ -53,6 +59,7 @@
 	print("4. Mengubah function menggunakan Lambda \n   def d(s): \n \t   return "".join(set(s))")
 	print("   Hasil : lambda s: "".join(set(s)))")
 
+Output dari source code di atas
 
 ![01.png](/gambar/01.png)
 
